@@ -123,6 +123,7 @@ def __main__():
     args = parser.parse_args()
 
     print('Processing shards...')
+    with 
     shards = load_shards(5)
     print('Shards load success')
     event_loop = EventLoop(shards, args.lemmatize, args.depends, args.speech_parts, args.any)
