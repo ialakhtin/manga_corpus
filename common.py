@@ -1,3 +1,16 @@
+import sys
+from contextlib import contextmanager
+
+
+@contextmanager
+def stdout_redirected(new_stdout):
+    save_stdout = sys.stdout
+    sys.stdout = new_stdout
+    try:
+        yield None
+    finally:
+        sys.stdout = save_stdout
+
 headers = {
     'User-Agent': ('Mozilla/5.0 (Windows NT 6.0; rv:14.0) Gecko/20100101 '
                    'Firefox/14.0.1'),

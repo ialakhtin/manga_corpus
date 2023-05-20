@@ -1,0 +1,37 @@
+--------------------
+Ребят , даже если вам покажется тяжеловатой сама работа , хотя бы полистайте , боже , какие в ней пейзажи , потрясающие портреты , а прорисовка архитектуры и одежды персонажей просто шедевральна .
+
+       Слово Часть речи                                                      Морфологический разбор
+ Ребят            NOUN   Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur                             
+ ,                PUNCT  None                                                                      
+ даже             PART   None                                                                      
+ если             SCONJ  None                                                                      
+ вам              PRON   Case=Dat|Number=Plur|Person=2|PronType=Prs                                
+ покажется        VERB   Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid
+ тяжеловатой      ADJ    Case=Ins|Degree=Pos|Gender=Fem|Number=Sing                                
+ сама             ADJ    Case=Nom|Degree=Pos|Gender=Fem|Number=Sing                                
+ работа           NOUN   Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing                              
+ ,                PUNCT  None                                                                      
+ хотя             PART   None                                                                      
+ бы               PART   None                                                                      
+ полистайте       VERB   Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act          
+ ,                PUNCT  None                                                                      
+ боже             VERB   Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act           
+ ,                PUNCT  None                                                                      
+ какие            DET    Case=Nom|Number=Plur|PronType=Int,Rel                                     
+ в                ADP    None                                                                      
+ ней              PRON   Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs                     
+ пейзажи          NOUN   Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur                             
+ ,                PUNCT  None                                                                      
+ потрясающие      ADJ    Case=Nom|Degree=Pos|Number=Plur                                           
+ портреты         NOUN   Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur                             
+ ,                PUNCT  None                                                                      
+ а                CCONJ  None                                                                      
+ прорисовка       NOUN   Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing                              
+ архитектуры      NOUN   Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing                              
+ и                CCONJ  None                                                                      
+ одежды           NOUN   Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing                              
+ персонажей       NOUN   Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur                             
+ просто           PART   None                                                                      
+ шедевральна      ADJ    Degree=Pos|Gender=Fem|Number=Sing|Variant=Short                           
+ .                PUNCT  None                                                                      
